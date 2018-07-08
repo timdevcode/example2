@@ -16,6 +16,4 @@ const sum = (x, y) => x + y
 > Quotes are written with a greater than symbol.
 Still a quote
 
-> This is a quote
-
 This is not a quote
